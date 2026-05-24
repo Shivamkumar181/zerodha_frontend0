@@ -26,10 +26,10 @@ function LeftSecrion({
         
        <div className="mt-3">
          <a href={googlePlay}>
-          <img src="media/images/googleplayBadge.svg" />
+          <img src="public/media/images/googleplayBadge.svg" />
         </a>
         <a href={appStore}>
-          <img src="media/images/appstoreBadge.svg" style={{marginLeft:"50px"}} />
+          <img src="public/media/images/appstoreBadge.svg" style={{marginLeft:"50px"}} />
         </a>
        </div>
       </div>
