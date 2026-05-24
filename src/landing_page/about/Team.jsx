@@ -50,7 +50,7 @@ function Team() {
                 </div>
 
                 <div className='mt-5'>
-                    <img src="public/media/images/dheeraj.jpeg" style={{borderRadius:"100%" ,width:"60%" }}/>
+                    <img src="media/images/dheeraj.jpeg" style={{borderRadius:"100%" ,width:"60%" }}/>
             <h5 className='mt-4'>Dheeraj Kumar</h5>
             <h6>COO</h6>
                 </div>
@@ -63,14 +63,14 @@ function Team() {
                 </div>
 
                 <div>
-                    <img src="public/media/images/ankit.png" style={{borderRadius:"100%" ,width:"70%", padding:"2%"}}/>
+                    <img src="media/images/ankit.png" style={{borderRadius:"100%" ,width:"70%", padding:"2%"}}/>
             <h5 className='mt-2'>Ankit Kumar</h5>
             <h6>Director</h6>
                 </div>
             </div>
             <div className="col-4 mt-5 p-5 text-muted fs-6">
                 <div>
-                    <img src="public/media/images/kartik.jpeg" style={{borderRadius:"100%" ,width:"60%"}}/>
+                    <img src="media/images/kartik.jpeg" style={{borderRadius:"100%" ,width:"60%"}}/>
             <h5 className='mt-4'>Shivam Kumar</h5>
             <h6>Chief of Education</h6>
                 </div>
